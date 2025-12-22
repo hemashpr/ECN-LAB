@@ -67,3 +67,8 @@
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
+
+**MARKS SPLIT UP**
+
+![IMG-20251222-WA0000](https://github.com/user-attachments/assets/6128a585-c710-4a67-9239-d4418dde10fb)
+
